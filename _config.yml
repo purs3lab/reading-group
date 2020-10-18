@@ -2,4 +2,5 @@ theme: minima
 title: Oxford HCC & Safety Reading Group
 description: This page is mainted by a group within the <a href="https://hcc.cs.ox.ac.uk/">Human-Centred Computing Group</a> in Oxford.
 header_pages:
+  - index.md
   - log.md
