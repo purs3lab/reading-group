@@ -2,6 +2,8 @@
 
 This website shall give an overview of the activities of our weekly safety reading group.
 
+The website is currently here: <https://oxfordhcc.github.io/reading-group/>
+
 ## Making changes to the website
 
 Anyone who want to edit the 'Meetings Logs', please contact Konrad Kollnig with regards to the relevant Google Doc.
