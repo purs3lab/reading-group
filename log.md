@@ -7,5 +7,5 @@ permalink: /log/
 Please find an overview of our most recent meetings here:
 
 <div class="h_iframe">
-    <iframe height="1000" src="https://docs.google.com/document/d/e/2PACX-1vTPt_Q3ZZPP7QJ5KdW6lu_OvMXwvQMwNaSxd_8pL8N6tKzMQy4jU9PAnGJ43bgwdhu_SqsJbTbxAkHw/pub?embedded=true" frameborder="0" allowfullscreen></iframe>
+    <iframe height="1000" src="https://docs.google.com/document/d/e/2PACX-1vS-XT14LfD-e91wlpHPKxjUJnJ08akyCXgciMLLuYOmt_35MerG_oDDe4XwjV_f0DUUGSdfidLt-ZuX/pub?embedded=true" frameborder="0" allowfullscreen></iframe>
 </div>

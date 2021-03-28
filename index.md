@@ -3,8 +3,8 @@ layout: home
 title: Welcome
 ---
 
-A weekly reading group on human centred computing with a focus on safety, security, and privacy. The group will include close readings of academic papers and presentations of works in progress, particularly those applying interdisciplinary approaches to socio-technical subjects. Therefore topics will include both ‘technical’ areas like machine learning and qualitative or ‘social’ subjects like the home as a research area.
+A weekly reading group on security with a focus on hardware security and system and software security. The group will include close readings of academic and non-academic papers and presentations in the area of computer security.
 
-The group will meet on Fridays at 2pm BST via Teams – all are welcome to join. Please email Julia Slupska to be added to our Teams channel.
+The group will meet on TODO via Zoom – all are welcome to join. Please email Aravind Machiry to be added to our Slack channel.
 
-The reading group is convened by Julia Slupska and Martin Kraemer. Website by Konrad Kollnig.
+The reading group is convened by Aravind Machiry, Santiago Torres-Arias and James Davies. Website by Aravind Machiry.
