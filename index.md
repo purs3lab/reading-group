@@ -12,3 +12,7 @@ Please email Aravind Machiry (amachiry AT purdue DOT edu) to be added to our Sla
 The reading group is convened by Aravind Machiry, Santiago Torres-Arias and James Davies. 
 
 Website by Aravind Machiry.
+
+### Next Week
+
+Fuzzware: Using Precise MMIO Modeling for Effective Firmware Fuzzing [PDF](https://www.usenix.org/system/files/sec22summer_scharnowski.pdf)
