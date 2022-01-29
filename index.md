@@ -13,6 +13,6 @@ The reading group is convened by Aravind Machiry, Santiago Torres-Arias and Jame
 
 Website by Aravind Machiry.
 
-### Next Week
+## Next Week's Paper (4th Feb 2022)
 
-Fuzzware: Using Precise MMIO Modeling for Effective Firmware Fuzzing [PDF](https://www.usenix.org/system/files/sec22summer_scharnowski.pdf)
+Fuzzware: Using Precise MMIO Modeling for Effective Firmware Fuzzing, [PDF](https://www.usenix.org/system/files/sec22summer_scharnowski.pdf)
