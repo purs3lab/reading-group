@@ -1,6 +1,6 @@
 theme: minima
 title: PurS3 Security Reading Group
-description: This page is maitained by the <a href="http://purs3lab.github.io/">PurS3 Group</a> at Purdue University.
+description: This page is maintained by the <a href="http://purs3lab.github.io/">PurS3 Group</a> at Purdue University.
 header_pages:
   - index.md
   - log.md
