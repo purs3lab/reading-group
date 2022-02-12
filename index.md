@@ -15,6 +15,6 @@ The reading group is convened by Aravind Machiry, Santiago Torres-Arias and Jame
 
 Website by Aravind Machiry.
 
-## Next Week's Paper (11th Feb 2022)
+## Next Week's Paper (18th Feb 2022)
 
-Retrofitting Fine Grain Isolation in the Firefox Renderer, [PDF](https://www.usenix.org/system/files/sec20-narayan.pdf)
+PTAuth: Temporal Memory Safety via Robust Points-to Authentication, [PDF](https://www.usenix.org/system/files/sec21-farkhani.pdf)
