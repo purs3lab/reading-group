@@ -15,6 +15,6 @@ The reading group is convened by Aravind Machiry, Santiago Torres-Arias and Jame
 
 Website by Aravind Machiry.
 
-## Next Week's Paper (18th Feb 2022)
+## Next Week's Paper (25th Feb 2022)
 
-PTAuth: Temporal Memory Safety via Robust Points-to Authentication, [PDF](https://www.usenix.org/system/files/sec21-farkhani.pdf)
+The Use of Likely Invariants as Feedback for Fuzzers, [PDF](https://www.usenix.org/system/files/sec21-fioraldi.pdf)
