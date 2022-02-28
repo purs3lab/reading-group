@@ -15,6 +15,6 @@ The reading group is convened by Aravind Machiry, Santiago Torres-Arias and Jame
 
 Website by Aravind Machiry.
 
-## Next Week's Paper (25th Feb 2022)
+## Next Week's Paper (4th Mar 2022)
 
-The Use of Likely Invariants as Feedback for Fuzzers, [PDF](https://www.usenix.org/system/files/sec21-fioraldi.pdf)
+USBFuzz: A Framework for Fuzzing USB Drivers by Device Emulation, [PDF](https://www.usenix.org/system/files/sec20-peng_0.pdf)
