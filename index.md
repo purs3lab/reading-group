@@ -15,6 +15,6 @@ The reading group is convened by Aravind Machiry, Santiago Torres-Arias and Jame
 
 Website by Aravind Machiry.
 
-## Next Week's Paper (4th Mar 2022)
+## Next Week's Paper (25th Mar 2022)
 
-USBFuzz: A Framework for Fuzzing USB Drivers by Device Emulation, [PDF](https://www.usenix.org/system/files/sec20-peng_0.pdf)
+PtrSplit: Supporting General Pointers in Automatic Program Partitioning, [PDF](https://www.cse.psu.edu/~gxt29/papers/ptrsplit.pdf)
