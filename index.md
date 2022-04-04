@@ -15,6 +15,6 @@ The reading group is convened by Aravind Machiry, Santiago Torres-Arias and Jame
 
 Website by Aravind Machiry.
 
-## Next Week's Paper (25th Mar 2022)
+## Next Week's Paper (8th Apr 2022)
 
-A theory of type qualifiers, [PDF](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.74.8953&rep=rep1&type=pdf)
+Flow-Insensitive Type Qualifiers (Till page no. 13), [PDF](https://dl.acm.org/doi/pdf/10.1145/1186632.1186635)
