@@ -17,4 +17,4 @@ Website by Aravind Machiry.
 
 ## Next Week's Paper (25th Mar 2022)
 
-PtrSplit: Supporting General Pointers in Automatic Program Partitioning, [PDF](https://www.cse.psu.edu/~gxt29/papers/ptrsplit.pdf)
+A theory of type qualifiers, [PDF](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.74.8953&rep=rep1&type=pdf)
