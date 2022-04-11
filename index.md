@@ -15,6 +15,6 @@ The reading group is convened by Aravind Machiry, Santiago Torres-Arias and Jame
 
 Website by Aravind Machiry.
 
-## Next Week's Paper (8th Apr 2022)
+## Next Week's Paper
 
 HYPER-CUBE: High-Dimensional Hypervisor Fuzzing, [PDF](https://www.ndss-symposium.org/wp-content/uploads/2020/02/23096.pdf)
