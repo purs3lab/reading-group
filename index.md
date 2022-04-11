@@ -17,4 +17,4 @@ Website by Aravind Machiry.
 
 ## Next Week's Paper (8th Apr 2022)
 
-Flow-Insensitive Type Qualifiers (Till page no. 13), [PDF](https://dl.acm.org/doi/pdf/10.1145/1186632.1186635)
+HYPER-CUBE: High-Dimensional Hypervisor Fuzzing, [PDF](https://www.ndss-symposium.org/wp-content/uploads/2020/02/23096.pdf)
