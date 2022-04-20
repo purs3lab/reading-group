@@ -17,4 +17,4 @@ Website by Aravind Machiry.
 
 ## Next Week's Paper
 
-HYPER-CUBE: High-Dimensional Hypervisor Fuzzing, [PDF](https://www.ndss-symposium.org/wp-content/uploads/2020/02/23096.pdf)
+Nyx: Greybox Hypervisor Fuzzing using Fast Snapshots and Affine Types, [PDF](https://www.usenix.org/system/files/sec21-schumilo.pdf)
