@@ -17,4 +17,4 @@ Website by Aravind Machiry.
 
 ## Next Week's Paper
 
-Nyx: Greybox Hypervisor Fuzzing using Fast Snapshots and Affine Types, [PDF](https://www.usenix.org/system/files/sec21-schumilo.pdf)
+SPROBES: Enforcing Kernel Code Integrity on the TrustZone Architecture, [PDF](https://arxiv.org/pdf/1410.7747.pdf)
