@@ -10,10 +10,6 @@ A weekly reading group on security with a focus on hardware security and system 
 
 Please email Aravind Machiry (amachiry AT purdue DOT edu) to be added to our Slack channel.
 
-The reading group is convened by Aravind Machiry. 
-
-Website by Aravind Machiry.
-
 ## This Week's Paper
 
-Fuzztruction: Using Fault Injection-based Fuzzing to Leverage Implicit Domain Knowledge, [PDF](https://www.usenix.org/system/files/usenixsecurity23-bars.pdf)
+**Sep 7th, 2023 (Aditya):** Fuzztruction: Using Fault Injection-based Fuzzing to Leverage Implicit Domain Knowledge, [PDF](https://www.usenix.org/system/files/usenixsecurity23-bars.pdf)
